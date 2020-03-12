@@ -32,7 +32,7 @@ namespace InsertOptionSetValue
             {
                 Console.WriteLine(e.Message);
                 Console.WriteLine();
-                Console.WriteLine("Usage: InsertOptionSetValue.exe [OptionSetLogicolName] [OptionValueStart] [File Path] [Organisation Connection String]");
+                Console.WriteLine("Usage: InsertOptionSetValue.exe [OptionSetLogicalName] [OptionValueStart] [File Path] [Organisation Connection String]");
                 Console.ReadKey();
                 return;
             }
